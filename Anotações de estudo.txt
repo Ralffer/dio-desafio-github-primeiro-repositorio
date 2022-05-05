@@ -1,0 +1,1 @@
+o GitBash é um terminal estendido para otimizar o uso do git
