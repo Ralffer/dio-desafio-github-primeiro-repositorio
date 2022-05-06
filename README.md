@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
+# DIO-desafio-github-primeiro-repositório
 Desafio projeto Git &amp; Github - Curso Dio 
 
 ##Links Úteis
